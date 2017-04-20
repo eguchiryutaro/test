@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 	<head>
-		<title></title>
+		<title>Hey friend</title>
 	</head>
 <body>
 </body>
